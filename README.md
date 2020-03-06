@@ -18,5 +18,6 @@ A. Jupiter.
 
 ## Questions
 ```
-Q-1. What is the full form of HTML?    
+Q-1. What is the full form of HTML?  
+A-1. Hyper Text Markup Language.   
 ```
