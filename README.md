@@ -21,5 +21,6 @@ A. Jupiter.
 Q-1. What is the full form of HTML?    
 ```
 ```
-Q-2. What is the full form of CSS?    
+Q-2. What is the full form of CSS?  
+A-2. Cascading StyleSheet.    
 ```
